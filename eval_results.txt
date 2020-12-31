@@ -1,0 +1,14 @@
+efficientnet_lite0
+TEST Iter 0: loss = 2.100231,     Top-1 err = 0.282700,   Top-5 err = 0.098280,   val_time = 120.648957
+
+efficientnet_lite1
+TEST Iter 0: loss = 2.076898,     Top-1 err = 0.252940,   Top-5 err = 0.079880,   val_time = 126.869352
+
+efficientnet_lite2
+TEST Iter 0: loss = 1.929238,     Top-1 err = 0.228660,   Top-5 err = 0.064640,   val_time = 142.668548
+
+efficientnet_lite3
+TEST Iter 0: loss = 1.782202,     Top-1 err = 0.210920,   Top-5 err = 0.056260,   val_time = 147.359098
+
+efficientnet_lite4
+TEST Iter 0: loss = 1.714834,     Top-1 err = 0.196580,   Top-5 err = 0.049440,   val_time = 158.336004
